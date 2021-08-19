@@ -22,7 +22,7 @@
 
 ### Understand about ALB Ingress Annotations
 - Understand about ALB Ingress Annotations. 
-- **Reference:** https://kubernetes-sigs.github.io/aws-alb-ingress-controller/guide/ingress/annotation/
+- **Reference:** https://kubernetes-sigs.github.io/aws-load-balancer-controller/v2.2/guide/ingress/annotations/
 
 
 
